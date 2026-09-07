@@ -2353,3 +2353,16 @@ icon = "network"
 description = "Pick a device and send a file via Taildrop from a file manager right-click menu."
 plugin_api = 10
 tags = ["utility", "network", "productivity", "panel", "service"]
+
+[[plugin]]
+id = "prponkshe/mango-displays"
+name = "Mango Displays"
+version = "1.2.0"
+updated_at = 1788804999
+added_at = 1788804999
+author = "prponkshe"
+license = "MIT"
+icon = "device-desktop"
+description = "Set resolution, refresh rate and scale per connected monitor, and mirror one onto another."
+plugin_api = 22
+tags = ["bar", "panel", "service", "hardware", "mangowc"]
