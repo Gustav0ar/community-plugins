@@ -161,6 +161,7 @@ body:
         - system-monitor
         - system-updater
         - systempulse
+        - taildrop
         - tailnet
         - tailscale
         - thinkpad-fan
