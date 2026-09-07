@@ -140,6 +140,7 @@ body:
         - pulsar-mouse
         - qrcode
         - quranwidget
+        - region-recorder
         - remmina
         - rss-notifier
         - ruh-vpn
