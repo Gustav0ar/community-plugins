@@ -2327,3 +2327,16 @@ plugin_api = 3
 version = "0.1.0"
 updated_at = 1788786159
 rev = "3c34ca17b964f1fcd25b1b0cf964968c31c6a69d"
+
+[[plugin]]
+id = "andrewdems/vpn-manager"
+name = "VPN Manager"
+version = "1.0.0"
+updated_at = 1788789884
+added_at = 1788789884
+author = "andrewdems"
+license = "MIT"
+icon = "shield-lock"
+description = "Connect, disconnect and import NetworkManager VPNs of any protocol, with auto-connect off trusted networks."
+plugin_api = 24
+tags = ["bar", "launcher", "panel", "service", "shortcut", "network", "privacy", "indicator"]
