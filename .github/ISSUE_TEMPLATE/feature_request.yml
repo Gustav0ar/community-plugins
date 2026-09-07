@@ -152,6 +152,7 @@ body:
         - shelly
         - sing-box-status
         - special-workspaces
+        - speedtest-meter
         - spotify
         - spotify-lyrics
         - spotify-media
