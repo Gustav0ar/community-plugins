@@ -2340,3 +2340,16 @@ icon = "shield-lock"
 description = "Connect, disconnect and import NetworkManager VPNs of any protocol, with auto-connect off trusted networks."
 plugin_api = 24
 tags = ["bar", "launcher", "panel", "service", "shortcut", "network", "privacy", "indicator"]
+
+[[plugin]]
+id = "carlocamacho/taildrop"
+name = "Taildrop"
+version = "1.0.0"
+updated_at = 1788804612
+added_at = 1788804612
+author = "carlocamacho"
+license = "MIT"
+icon = "network"
+description = "Pick a device and send a file via Taildrop from a file manager right-click menu."
+plugin_api = 10
+tags = ["utility", "network", "productivity", "panel", "service"]
