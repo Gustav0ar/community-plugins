@@ -2273,8 +2273,8 @@ tags = ["audio", "media", "bar", "panel", "shortcut"]
 [[plugin]]
 id = "alitura1/ayet-kosesi"
 name = "Ayet Köşesi"
-version = "1.4.0"
-updated_at = 1788815727
+version = "1.5.0"
+updated_at = 1788956903
 added_at = 1788733836
 author = "alitura1"
 license = "MIT"
