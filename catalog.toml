@@ -2299,15 +2299,21 @@ tags = ["ai", "development", "indicator", "system", "bar", "desktop", "panel", "
 [[plugin]]
 id = "ahmedhossamdev/sticky-notes"
 name = "Sticky Notes"
-version = "1.1.1"
-updated_at = 1788751382
+version = "1.2.0"
+updated_at = 1788956529
 added_at = 1788740022
 author = "ahmedhossamdev"
 license = "MIT"
 icon = "note"
 description = "Colorful sticky notes and interactive checklists from your bar, with pinning, privacy blur, and portable storage."
-plugin_api = 24
+plugin_api = 26
 tags = ["bar", "panel", "service", "privacy", "productivity", "utility"]
+
+[[plugin.release]]
+plugin_api = 24
+version = "1.1.1"
+updated_at = 1788751382
+rev = "dbe2ff526487f110d0bfba1831635529ac0edb85"
 
 [[plugin]]
 id = "h-jangra/region-recorder"
