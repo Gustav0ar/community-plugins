@@ -2385,3 +2385,16 @@ icon = "brand-speedtest"
 description = "Run an internet speed test with a live speedometer and detailed results."
 plugin_api = 18
 tags = ["network", "indicator", "bar", "panel"]
+
+[[plugin]]
+id = "ahmedhossamdev/timezone-hub"
+name = "Timezone Hub"
+version = "2.1.0"
+updated_at = 1788998483
+added_at = 1788998483
+author = "ahmedhossamdev"
+license = "MIT"
+icon = "world"
+description = "Change your device timezone and compare it against other cities, with live times and an hour-offset strip for each."
+plugin_api = 24
+tags = ["bar", "clock", "time", "utility"]
