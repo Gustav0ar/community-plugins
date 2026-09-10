@@ -151,6 +151,7 @@ body:
         - shell-command
         - shelly
         - sing-box-status
+        - soundcore-buds
         - special-workspaces
         - speedtest-meter
         - spotify
