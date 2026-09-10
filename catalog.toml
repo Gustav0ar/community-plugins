@@ -2398,3 +2398,16 @@ icon = "world"
 description = "Change your device timezone and compare it against other cities, with live times and an hour-offset strip for each."
 plugin_api = 24
 tags = ["bar", "clock", "time", "utility"]
+
+[[plugin]]
+id = "sankity/soundcore-buds"
+name = "Soundcore Buds"
+version = "1.0.0"
+updated_at = 1788999441
+added_at = 1788999441
+author = "sankity"
+license = "MIT"
+icon = "headphones"
+description = "Soundcore battery, listening mode and ANC strength in the bar via OpenSCQ30."
+plugin_api = 24
+tags = ["audio", "bar", "panel", "service", "hardware", "indicator"]
