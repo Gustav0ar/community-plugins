@@ -47,6 +47,7 @@ body:
         - bitdjinn
         - bookmarks
         - calculator
+        - calculator-plus
         - case-convert
         - cat
         - cider
