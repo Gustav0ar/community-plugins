@@ -2502,3 +2502,16 @@ icon = "brand-github"
 description = "A fast, clean GitHub notification inbox for your Noctalia bar."
 plugin_api = 24
 tags = ["bar", "panel", "service", "development", "productivity", "utility", "network"]
+
+[[plugin]]
+id = "samuelskovbakke/calculator-plus"
+name = "Calculator Plus"
+version = "1.0.0"
+updated_at = 1789149960
+added_at = 1789149960
+author = "samuelskovbakke"
+license = "MIT"
+icon = "calculator"
+description = "Popup qalc calculator panel with expression history."
+plugin_api = 28
+tags = ["bar", "panel", "utility"]
