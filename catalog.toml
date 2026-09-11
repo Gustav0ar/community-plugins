@@ -2476,3 +2476,16 @@ icon = "device-desktop"
 description = "Umbriel: place monitors left/right/above/below and set resolution and refresh rate; saved to the config."
 plugin_api = 24
 tags = ["bar", "panel", "service", "system", "utility", "hardware", "umbriel"]
+
+[[plugin]]
+id = "grassyloki/kwallet-secrets"
+name = "KWallet Secrets"
+version = "1.1.0"
+updated_at = 1789149522
+added_at = 1789149522
+author = "grassyloki"
+license = "MIT"
+icon = "shield-lock"
+description = "Answers NetworkManager Wi-Fi and VPN secret requests from KWallet instead of prompting."
+plugin_api = 28
+tags = ["service", "network", "privacy", "system"]
