@@ -2437,3 +2437,16 @@ icon = "device-tv"
 description = "Track Bangumi anime and episode progress from desktop widgets, and update watched episodes from the panel."
 plugin_api = 15
 tags = ["bar", "desktop", "panel", "service", "animation", "media", "network", "productivity"]
+
+[[plugin]]
+id = "prponkshe/umbriel-displays"
+name = "Umbriel Displays"
+version = "1.0.0"
+updated_at = 1789086907
+added_at = 1789086907
+author = "prponkshe"
+license = "MIT"
+icon = "device-desktop"
+description = "Set resolution, refresh rate, scale and arrangement per connected display."
+plugin_api = 22
+tags = ["bar", "panel", "service", "hardware", "utility"]
