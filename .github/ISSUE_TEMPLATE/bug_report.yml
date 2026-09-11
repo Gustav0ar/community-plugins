@@ -178,6 +178,7 @@ body:
         - topgrade-wrapper
         - udiskie
         - um5606_fan_state
+        - umbriel-displays
         - upbeat
         - vidi
         - voxtype
