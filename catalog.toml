@@ -2450,3 +2450,16 @@ icon = "device-desktop"
 description = "Set resolution, refresh rate, scale and arrangement per connected display."
 plugin_api = 22
 tags = ["bar", "panel", "service", "hardware", "utility", "umbriel"]
+
+[[plugin]]
+id = "nightwatch75/claude-cockpit"
+name = "Claude Cockpit"
+version = "0.6.4"
+updated_at = 1789089483
+added_at = 1789089483
+author = "nightwatch75"
+license = "MIT"
+icon = "robot"
+description = "Monitor Claude Code usage, browse and manage local sessions, edit CLAUDE.md files."
+plugin_api = 24
+tags = ["ai", "development", "bar", "panel", "service", "productivity"]
