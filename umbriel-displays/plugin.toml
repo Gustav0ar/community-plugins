@@ -9,7 +9,7 @@ plugin_api = 22
 author = "prponkshe"
 license = "MIT"
 dependencies = ["umbriel"]
-tags = ["bar", "panel", "service", "hardware", "utility"]
+tags = ["bar", "panel", "service", "hardware", "utility", "umbriel"]
 icon = "device-desktop"
 description = "Set resolution, refresh rate, scale and arrangement per connected display."
 
