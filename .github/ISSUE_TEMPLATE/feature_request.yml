@@ -50,6 +50,7 @@ body:
         - case-convert
         - cat
         - cider
+        - claude-cockpit
         - claude-companion
         - claudecode
         - cmd-runner
