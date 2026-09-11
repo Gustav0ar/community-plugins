@@ -2411,3 +2411,16 @@ icon = "headphones"
 description = "Soundcore battery, listening mode and ANC strength in the bar via OpenSCQ30."
 plugin_api = 24
 tags = ["audio", "bar", "panel", "service", "hardware", "indicator"]
+
+[[plugin]]
+id = "mindnbytes/nix-status"
+name = "Nix Status"
+version = "0.2.0"
+updated_at = 1789085563
+added_at = 1789085563
+author = "mindnbytes"
+license = "MIT"
+icon = "package"
+description = "Monitor NixOS generations, compare system closures, and update configured flake inputs."
+plugin_api = 30
+tags = ["bar", "panel", "service", "indicator", "system", "utility", "nixos"]
