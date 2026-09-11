@@ -2424,3 +2424,16 @@ icon = "package"
 description = "Monitor NixOS generations, compare system closures, and update configured flake inputs."
 plugin_api = 30
 tags = ["bar", "panel", "service", "indicator", "system", "utility", "nixos"]
+
+[[plugin]]
+id = "mirei124/bangumi-progress"
+name = "Bangumi Progress"
+version = "1.1.0"
+updated_at = 1789085966
+added_at = 1789085966
+author = "Mirei124"
+license = "MIT"
+icon = "device-tv"
+description = "Track Bangumi anime and episode progress from desktop widgets, and update watched episodes from the panel."
+plugin_api = 15
+tags = ["bar", "desktop", "panel", "service", "animation", "media", "network", "productivity"]
