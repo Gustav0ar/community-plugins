@@ -95,6 +95,7 @@ body:
         - keymap
         - keyviz
         - kineticwe-layouts
+        - kwallet-secrets
         - launcher-pass
         - layout-fix
         - librelinkup
