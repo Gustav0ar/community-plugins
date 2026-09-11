@@ -761,8 +761,8 @@ rev = "f6983da41aeffeb5908001b835be4011821e5913"
 [[plugin]]
 id = "jamesfeeder/special-workspaces"
 name = "Special Workspaces"
-version = "1.5.0"
-updated_at = 1788548483
+version = "1.6.0"
+updated_at = 1789149904
 added_at = 1785121575
 author = "jamesfeeder"
 license = "MIT"
@@ -2489,3 +2489,16 @@ icon = "shield-lock"
 description = "Answers NetworkManager Wi-Fi and VPN secret requests from KWallet instead of prompting."
 plugin_api = 28
 tags = ["service", "network", "privacy", "system"]
+
+[[plugin]]
+id = "hy4ri/github-notifications"
+name = "GitHub Notifications"
+version = "0.1.0"
+updated_at = 1789149555
+added_at = 1789149555
+author = "hy4ri"
+license = "MIT"
+icon = "brand-github"
+description = "A fast, clean GitHub notification inbox for your Noctalia bar."
+plugin_api = 24
+tags = ["bar", "panel", "service", "development", "productivity", "utility", "network"]
