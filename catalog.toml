@@ -2449,4 +2449,4 @@ license = "MIT"
 icon = "device-desktop"
 description = "Set resolution, refresh rate, scale and arrangement per connected display."
 plugin_api = 22
-tags = ["bar", "panel", "service", "hardware", "utility"]
+tags = ["bar", "panel", "service", "hardware", "utility", "umbriel"]
