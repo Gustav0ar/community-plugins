@@ -116,6 +116,7 @@ body:
         - niri-displays
         - niri-rules-studio
         - nix-monitor
+        - nix-status
         - noctwhspr
         - nvim-projects
         - nvtop
