@@ -74,6 +74,7 @@ body:
         - gamer-mode
         - git_companion
         - github-activity
+        - github-notifications
         - github-prs
         - gocryptfs
         - godot-provider
