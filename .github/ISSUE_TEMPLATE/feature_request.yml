@@ -37,6 +37,7 @@ body:
         - audio-switcher
         - awwwall
         - ayet-kosesi
+        - bangumi-progress
         - battery-graph
         - battery-power-management
         - battery-threshold
